@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/148664f25357469fcc8e95c4c49d669c.jpg" group-title="Séries | Game of Thrones",Game of Thrones S01 E01
+# EXTM3U
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/148664f25357469fcc8e95c4c49d669c.jpg" group-title="Séries | Game of Thrones",Game of Thrones S01 E01# EXTM3U
 http://esrv.cc:80/series/WFFXPl/K9TGEU/20863.mp4
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5de76e43dee6d8ca0a48645d2780623f.jpg" group-title="Séries | Game of Thrones",Game of Thrones S01 E02
 http://esrv.cc:80/series/WFFXPl/K9TGEU/20864.mp4
