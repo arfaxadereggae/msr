@@ -17,6 +17,14 @@ http://psrv.io:80/series/kdvn8f2BDtF9A/4396055543/61584.mp4
 http://psrv.io:80/series/kdvn8f2BDtF9A/4396055543/61585.mp4
 #EXTINF:-1 group-title="Series | The Mandalorian" tvg-logo="http://psrv.io:80/images/3a6c7d64e481ce77c98e7f3138810e8e.jpg",O Mandaloriano S02 E01
 http://psrv.io:80/series/kdvn8f2BDtF9A/4396055543/61586.mp4
+#EXTINF:-1 group-title="The Mandalorian" tvg-logo="http://p6.vc/5E",O Mandaloriano S02 E01
+http://bldtv.vip:80/series/erico/102030/184885.mp4
+#EXTINF:-1 group-title="The Mandalorian" tvg-logo="http://p6.vc/5E",O Mandaloriano S02 E02
+http://bldtv.vip:80/series/erico/102030/184886.mp4
+#EXTINF:-1 group-title="The Mandalorian" tvg-logo="http://p6.vc/5E",O Mandaloriano S02 E03
+http://bldtv.vip:80/series/erico/102030/184887.mp4
+#EXTINF:-1 group-title="The Mandalorian" tvg-logo="http://p6.vc/5E",O Mandaloriano S02 E04
+http://bldtv.vip:80/series/erico/102030/184888.mp4
 #EXTINF:-1 group-title="Series | The Black List" tvg-logo="http://z4.vc/eT9",The Black List S01 E01
 http://psrv.io:80/series/kdvn8f2BDtF9A/4396055543/5375.mp4
 #EXTINF:-1 group-title="Series | The Black List" tvg-logo="http://z4.vc/eT9",The Black List S01 E02
